@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit_config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "pro_unlock",
+      "localizations": [
+        {
+          "description": "Unlocks unlimited entries and premium features.",
+          "displayName": "Carry-on Checker Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.carryonchecker.pro_unlock",
+      "referenceName": "Carry-on Checker Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
